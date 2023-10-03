@@ -1,8 +1,4 @@
-# HacktoberFest2023
-# HacktoberFest-Accepted
 # ACM-CIET
-
-Welcome to HacktoberFest2023! We're excited to have you contribute to our open-source project. Please follow the guidelines below to contribute to our project.
 
 ## How to Contribute
 
