@@ -2,7 +2,7 @@
 
 ## How to Contribute
 
-**Contributions to HacktoberFest2023 are encouraged. Here's how you can get started:**
+**Contributions to repository are encouraged. Here's how you can get started:**
 
 1. **Fork the Repository**: Click on the "Fork" button at the top-right corner of this repository to create your own fork.
 
