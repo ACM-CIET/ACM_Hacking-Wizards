@@ -60,11 +60,9 @@ const Card = (props) => {
 function App() {
   return (
     <>
-    <br />
-      <div class="four">
-  <h1><span>ACM's</span><br />Hacking <em>Wizards</em></h1>
-</div><br />
+<br />
     <div class="four">
+  <h1><span>ACM's</span><br />Hacking <em>Wizards</em></h1>
 </div><br />
       <div className="main">
         {
