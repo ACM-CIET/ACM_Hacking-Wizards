@@ -9,6 +9,14 @@
         "github":"https://github.com/Ayushkumar890",
         "linkedin":"https://www.linkedin.com/in/ayush-kumar-40302b258/"
     },
+     {"githubUsername":"Khushi-51",
+        "role":"WEB TEAM - ACM CIET",
+        "school":"Chitkara University, Rajpura",
+        "twitter":"https://twitter.com/Khushi606272132",
+        "insta":"https://www.instagram.com/b.khushi84/",
+        "github":"https://github.com/Khushi-51",
+        "linkedin":"https://www.linkedin.com/in/khushi-8753b7290/"
+    },
     { "githubUsername":"Soni-Sharma34",
     "role":"WEB TEAM - ACM CIET",
     "school":"Chitkara University, Rajpura",
@@ -24,6 +32,14 @@
     "insta":"https://www.instagram.com/ignoble_immortal/",
     "github":"https://github.com/Ignoble-Immortal",
     "linkedin":"https://www.linkedin.com/in/ojas-gupta-5a7822265/"
+    },
+     { "githubUsername":"Rimjhim-Lalwani",
+    "role":"WEB TEAM - ACM CIET",
+    "school":"Chitkara University, Rajpura",
+    "twitter":"",
+    "insta":"https://www.instagram.com/rimjhim.lalwani/",
+    "github":"https://github.com/Rimjhim-Lalwani",
+    "linkedin":"https://www.linkedin.com/in/rimjhim-lalwani-32375121b/"
     },
     {
      "githubUsername":"sujal1256",
@@ -112,4 +128,49 @@
          "github":"https://github.com/Gaurav-Singh-Heer",
          "linkedin":"https://www.linkedin.com/in/gaurav-singh-heer-788804280/"
     },
+    {
+        "githubUsername":"Japneet001",
+         "role":"Contributor",
+         "school":"Chitkara University, Rajpura",
+         "twitter":"https://twitter.com/Jkaur0102",
+         "insta":"https://www.instagram.com/japneet0102/",
+         "github":"https://github.com/Japneet001",
+         "linkedin":"https://www.linkedin.com/in/japneet-kaur-7788b8253"
+    },
+    {
+        "githubUsername":"vansh-attri",
+        "role":"Contributor",
+        "school":"Manav Rachna International Institute of Research and Science, Faridabad",
+        "twitter":"https://twitter.com/vanshstwt",
+        "insta":"https://www.instagram.com/vanshattrisig/",
+        "github":"https://github.com/vansh-attri",
+        "linkedin":"https://www.linkedin.com/in/vansh-attri-33a361289/"
+  },
+        {
+        "githubUsername":"Jasleengujral01",
+         "role":"Contributor",
+         "school":"Chitkara University, Rajpura",
+         "twitter":"https://twitter.com/jasleengujral01",
+         "insta":"https://www.instagram.com/_jasleen.gujral._/?next=%2F",
+         "github":"https://github.com/Jasleengujral01",
+         "linkedin":"https://www.linkedin.com/in/jasleen-kaur-53483b25a/"
+    },
+    {
+        "githubUsername":"monsor3s",
+        "role":"Contributor",
+        "school":"FEUC",
+        "twitter":"https://twitter.com/monsoresdev",
+        "insta":"https://www.instagram.com/monsor3scode/",
+        "github":"https://github.com/monsor3s",
+        "linkedin":"https://www.linkedin.com/in/marlon-monsores-380408b2/"
+    },
+    {
+        "githubUsername":"mohammedfarhan-m",
+        "role":"Contributor",
+        "school":"MJCET",
+        "twitter":"https://twitter.com/mohammedfa88153",
+        "insta":"https://www.instagram.com/mohammedfarhanmohiuddin_/",
+        "github":"https://github.com/mohammedfarhan-m",
+        "linkedin":"https://www.linkedin.com/in/mohammed-farhan-mohiuddin-021769289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
 ]
